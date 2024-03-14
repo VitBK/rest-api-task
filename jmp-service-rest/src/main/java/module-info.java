@@ -1,4 +1,4 @@
 module jmpServiceRest {
-    requires jmpDto;
+    requires transitive jmpDto;
     exports jmp.servicerest;
 }

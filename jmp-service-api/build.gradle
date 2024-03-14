@@ -6,5 +6,5 @@ group = 'jmp.serviceapi'
 version = ''
 
 dependencies {
-
+    implementation(project(':jmp-dto'))
 }
