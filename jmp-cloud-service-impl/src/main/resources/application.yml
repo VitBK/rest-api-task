@@ -11,3 +11,10 @@ spring:
     spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
     hibernate:
       ddl-auto: create-drop
+springdoc:
+  api-docs:
+    enabled: true
+    path: "api-docs"
+  swagger-ui:
+    enabled: true
+    path: "/swagger"
