@@ -6,4 +6,5 @@ group = 'jmp.servicerest'
 version = ''
 
 dependencies {
+    implementation(project(':jmp-dto'))
 }
