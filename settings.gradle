@@ -1,3 +1,6 @@
 rootProject.name = 'rest-api-task'
 include 'jmp-dto'
+include 'jmp-service-api'
+include 'jmp-service-rest'
+include 'jmp-cloud-service-impl'
 

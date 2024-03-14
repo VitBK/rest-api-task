@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+group = 'jmp.cloudserviceimpl'
+version = ''
+
+
+dependencies {
+
+}
